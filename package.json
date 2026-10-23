@@ -12,6 +12,8 @@
   "type": "module",
   "dependencies": {
     "express": "^5.3.0",
+    "express-rate-limit": "^8.7.1",
+    "helmet": "^8.3.0",
     "multer": "^2.4.0",
     "pdf-merger-js": "^5.1.2"
   }
